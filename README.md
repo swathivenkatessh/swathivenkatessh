@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @swathivenkatessh
-- 👀 I’m interested in digital marketing,social media marketing, online marketing, SEO, Google Ads, Meta Ads.
-- 🌱 I completed my Advance Didital Marketing Course in GUVI, GEEK IITM research park.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Swathi Venkatessh 👋
 
-<!---
-swathivenkatessh/swathivenkatessh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+---
+
+## 👩‍💻 About Me
+
+- **Education:** B.E. in Electronics and Communication Engineering (2014)
+- **Professional Experience:**  
+  - Customer Support Executive at Amazon Seller Support (Non-Voice Process), 2014–2015
+- **Recent Journey:**  
+  - After a career break for personal commitments, I have upskilled myself in digital marketing and am now eager to contribute my skills in this exciting domain!
+
+---
+
+## 🎓 Certifications
+
+- **Advanced Digital Marketing**  
+  GUVI, GEEK, IITM Research Park, Chennai
+
+---
+
+## 💡 Skills
+
+- **Digital Marketing:**  
+  SEO, Google Ads, Meta Ads (Facebook & Instagram), Social Media Marketing, Content Marketing, Campaign Creation, Online Marketing, Marketing Strategies
+
+- **Tools & Platforms:**  
+  Google Analytics, Facebook Business Suite, LinkedIn, Instagram, WordPress, Canva
+
+- **Soft Skills:**  
+  Client Communication, Problem Solving, Team Collaboration, Customer Support
+
+---
+
+## 📈 What I'm Working On
+
+Currently exploring hands-on projects in digital marketing and looking to collaborate on:
+- SEO audit projects
+- Social media campaign setups
+- Google Ads & Meta Ads campaign management
+- Content strategy and marketing
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Email](mailto:your.email@example.com) <!-- Update with your real email if you wish -->
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
+
+---
+
+Thanks for visiting my profile! 🚀
