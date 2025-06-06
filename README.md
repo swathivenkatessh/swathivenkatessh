@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 👩‍💻 About Me
 
-- **Education:** B.E. in Electronics and Communication Engineering (2014)
+- **Education:** B.E Electronics and Communication Engineering (2014) with 8.5 CGPA
 - **Professional Experience:**  
   - Customer Support Executive at Amazon Seller Support (Non-Voice Process), 2014–2015
 - **Recent Journey:**  
