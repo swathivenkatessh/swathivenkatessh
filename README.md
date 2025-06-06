@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 - **Education:** B.E Electronics and Communication Engineering (2014) with 8.5 CGPA
 - **Professional Experience:**  
-  - Customer Support Executive at Amazon Seller Support (Non-Voice Process), 2014–2015 aT Sutherland Global Services, Chennai.
+  - Customer Support Executive at Amazon Seller Support (Non-Voice Process), 2014–2015 at Sutherland Global Services, Chennai.
 - **Recent Journey:**  
   - After a career break for personal commitments, I have upskilled myself in digital marketing and am now eager to contribute my skills in this exciting domain!
 
