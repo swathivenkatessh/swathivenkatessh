@@ -1,4 +1,4 @@
-# Hi, I'm Swathi Venkatessh 👋
+# Hi, I'm Swathi👋
 
 Welcome to my GitHub profile!
 
