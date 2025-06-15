@@ -53,8 +53,8 @@ Currently exploring hands-on projects in digital marketing and looking to collab
 
 ## 🌐 Connect with Me
 
-- https://www.linkedin.com/in/swathi-venkatesh-099129344/)
--  swathiecesrinivasan@gmail.com 
+- https://www.linkedin.com/in/swathi-venkatesh-099129344/
+- swathiecesrinivasan@gmail.com 
 
 ---
 
