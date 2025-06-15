@@ -19,9 +19,12 @@ Welcome to my GitHub profile!
 - **Advanced Digital Marketing**  
   GUVI, GEEK, IITM Research Park, Chennai
   
-  NSDC Certification in Digital Marketing – First Class
+- **NSDC Certification in Digital Marketing** – First Class
   National Skill Development Corporation (NSDC)
   Issued: [March,2025]
+
+  -**META CERTIFICATION IN DIGITAL MARKETING** -Meta
+  
 
 ---
 
