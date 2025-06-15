@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
   National Skill Development Corporation (NSDC)
   Issued: [March,2025]
 
-  -**META CERTIFICATION IN DIGITAL MARKETING** -Meta
+  - **META CERTIFICATION IN DIGITAL MARKETING** -Meta
   
 
 ---
@@ -53,8 +53,8 @@ Currently exploring hands-on projects in digital marketing and looking to collab
 
 ## 🌐 Connect with Me
 
-- [[LinkedIn](https://www.linkedin.com/feed/)](https://www.linkedin.com/in/swathi-venkatesh-099129344/)
-- [Email](mailto:your.email@example.com) <!-- swathiecesrinivasan@gmail.com -->
+- https://www.linkedin.com/in/swathi-venkatesh-099129344/)
+-  swathiecesrinivasan@gmail.com 
 
 ---
 
