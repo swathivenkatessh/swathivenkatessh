@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
   National Skill Development Corporation (NSDC)
   Issued: [March,2025]
 
-  - **META CERTIFICATION IN DIGITAL MARKETING** -Meta
+- **META CERTIFICATION IN DIGITAL MARKETING** -Meta
   
 
 ---
